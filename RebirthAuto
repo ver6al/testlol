@@ -1,0 +1,33 @@
+local BackpackValue  = LocalPlayer.Character.Backpack.Decore.Count.SurfaceGui.Amount.Text
+if BackpackValue == "100000/inf" then
+
+local ohString1 = "MoveTo"
+local ohTable2 = {
+	[1] = {
+		[1] = "LavaSell"
+	}
+}
+
+workspace[utf8.char(114, 823, 780, 832, 852, 791, 792, 791, 817, 101, 822, 775, 789, 831, 831, 836, 782, 780, 859, 856, 842, 861, 773, 772, 851, 109, 823, 834, 848, 776, 772, 778, 831, 835, 836, 781, 780, 833, 815, 812, 812, 804, 805, 796, 818, 111, 821, 774, 778, 835, 774, 836)]:FireServer(ohString1, ohTable2)
+
+
+wait()
+
+
+local ohString1 = "SellItems"
+local ohTable2 = {
+	[1] = {}
+}
+
+workspace[utf8.char(114, 823, 780, 832, 852, 791, 792, 791, 817, 101, 822, 775, 789, 831, 831, 836, 782, 780, 859, 856, 842, 861, 773, 772, 851, 109, 823, 834, 848, 776, 772, 778, 831, 835, 836, 781, 780, 833, 815, 812, 812, 804, 805, 796, 818, 111, 821, 774, 778, 835, 774, 836)]:FireServer(ohString1, ohTable2)
+
+wait()
+
+
+local ohString1 = "Rebirth"
+local ohTable2 = {
+	[1] = {}
+}
+
+workspace[utf8.char(114, 823, 780, 832, 852, 791, 792, 791, 817, 101, 822, 775, 789, 831, 831, 836, 782, 780, 859, 856, 842, 861, 773, 772, 851, 109, 823, 834, 848, 776, 772, 778, 831, 835, 836, 781, 780, 833, 815, 812, 812, 804, 805, 796, 818, 111, 821, 774, 778, 835, 774, 836)]:FireServer(ohString1, ohTable2)
+
